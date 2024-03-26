@@ -15,13 +15,13 @@ I am Leo, a passionate student pursuing my pre-masters in Data Science for Decis
 - **Description:** This project is about leveraging the power and simplicity of genetic algorithms to provide near-optimal solutions to both the knapsack and traveling salesman problems.
 - **Technologies Used:** Python, Numpy, Seaborn.
 - **Key Features:** Modular functions to solve problems of different dimensions.
-- **Repository:** https://github.com/lpaggen/UMDataScience/tree/main/LAB_GENETIC_ALGO
+- **Repository:** [Genetic Algorithms Repository](https://github.com/lpaggen/UMDataScience/tree/main/LAB_GENETIC_ALGO)
 
 ### 2. Data Analysis
 
 - **Description:** A series of Jupyter Notebooks in which I worked on EDA, predictive modeling, and classification.
 - **Technologies Used:** Python, Numpy, Pandas, Sklearn, Matplotlib, Seaborn.
-- **Repository:** https://github.com/lpaggen/UMDataScience/tree/main/Data%20Analysis%20Projects
+- **Repository:** [Data Analysis Repository](https://github.com/lpaggen/UMDataScience/tree/main/Data%20Analysis%20Projects)
 
 ### Additional Projects
 
@@ -34,4 +34,4 @@ Contributions, suggestions, and feedback are always welcome!
 ## Contact
 
 - **Email:** lpaggen@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/lpaggen/
+- **LinkedIn:** [Link to my profile](https://www.linkedin.com/in/lpaggen/)
