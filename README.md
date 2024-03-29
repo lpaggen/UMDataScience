@@ -2,11 +2,17 @@
 
 Welcome to my data science repository containing some cool projects I made while studying data science at Maastricht University's Department of Advanced Computing Sciences (DACS)!
 
-This repository contains a collection of coding projects undertaken as part of my academic journey at Maastricht University, specifically within the realm of Data Science for Decision Making (DSDM) and the accompanying bachelor classes in Data Science and Artificial Intelligence (DSAI).
+This repository contains a collection of coding projects undertaken as part of my studies at Maastricht University, specifically within Data Science for Decision Making (DSDM) and the accompanying bachelor classes in Data Science and Artificial Intelligence (DSAI).
 
 ## About Me
 
-I am Leo, a passionate student pursuing my pre-masters in Data Science for Decision Making (DSDM) at Maastricht University. I am actively engaged in various coding projects aimed at honing my skills within the field of data science.
+I am Leo, I am currently pursuing a pre-masters in Data Science for Decision Making (DSDM) at Maastricht University. I am actively engaged in various coding projects aimed at improving my skills within the field of data science.
+
+### Languages and Frameworks I use
+
+- **Python** Numpy, Pandas, Seaborn, Statsmodels, Numpy, Scikit Learn
+- **Java** Still learning this one, but can write basic code
+- **SQL**
 
 ## Projects Overview
 
@@ -15,7 +21,7 @@ I am Leo, a passionate student pursuing my pre-masters in Data Science for Decis
 - **Description:** This project is about leveraging the power and simplicity of genetic algorithms to provide near-optimal solutions to both the knapsack and traveling salesman problems.
 - **Technologies Used:** Python, Numpy, Seaborn.
 - **Key Features:** Modular functions to solve problems of different dimensions.
-- **Repository:** [Genetic Algorithms Repository](https://github.com/lpaggen/UMDataScience/tree/main/LAB_GENETIC_ALGO)
+- **Repository:** [Genetic Algorithms Repository](https://github.com/lpaggen/UMDataScience/tree/main/Genetic%20Algorithms)
 
 ### 2. Data Analysis
 
