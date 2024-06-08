@@ -29,6 +29,12 @@ I am Leo, I am currently pursuing a pre-masters in Data Science for Decision Mak
 - **Technologies Used:** Python, Numpy, Pandas, Sklearn, Matplotlib, Seaborn.
 - **Repository:** [Data Analysis Repository](https://github.com/lpaggen/UMDataScience/tree/main/Data%20Analysis%20Projects)
 
+### 3. Linear Program Solver (Simplex Method) (JAVA) 
+
+- **Description:** This is a personal project aimed towards implementing the Simplex algorithm to solve a wide range of Linear Programs in Java.
+- **Technologies Used:** Java 8
+- **Repository:** [Java Linear Program Solver Repository](https://github.com/lpaggen/UMDataScience/tree/main/LinearProgramSolver)
+
 ### Additional Projects
 
 Feel free to explore more projects within this repository! I will add some more soon.
